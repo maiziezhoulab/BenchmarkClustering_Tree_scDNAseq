@@ -33,22 +33,6 @@ This repository provides standardized pipelines for installing, running, and eva
 
 ---
 
-# Benchmark Progress
-
-| Method | Installation | Pipeline Tested | Benchmark Running | Results Collected | Documentation |
-|:-------|:------------:|:---------------:|:-----------------:|:-----------------:|:-------------:|
-| SCG | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| BnpC | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| SBMClone | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| SCClone | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| SCITE | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| SiFit | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| SiCloneFit | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| COMPASS | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-| SCsnvcna | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
-
----
-
 # Repository Structure
 
 ```
