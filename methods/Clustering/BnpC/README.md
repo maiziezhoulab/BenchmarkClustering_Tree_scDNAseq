@@ -11,10 +11,10 @@ It uses a Chinese Restaurant Process prior to handle an unknown number of clones
 
 | Item | Description |
 |------|-------------|
-| Method | METHOD_NAME |
-| Task | TASK_TYPE |
-| Signal | SIGNAL_TYPE |
-| Language | LANGUAGE |
+| Method | BnpC |
+| Task | Cell clustering & clonal genotype imputation |
+| Signal | SNV (single-nucleotide variant) |
+| Language | Python |
 | Input data | Single-cell DNA sequencing |
 
 ## Installation
