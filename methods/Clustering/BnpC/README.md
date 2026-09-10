@@ -20,11 +20,8 @@ It uses a Chinese Restaurant Process prior to handle an unknown number of clones
 ## Installation
 
 ```bash
-git clone https://github.com/cbg-ethz/BnpC
-cd BnpC
-conda create --name BnpC python=3
+conda env create -f environment.yml
 conda activate BnpC
-python -m pip install -r requirements.txt
 ```
 
 ## Required Input
