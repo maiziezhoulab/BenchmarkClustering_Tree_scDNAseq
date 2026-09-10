@@ -29,7 +29,7 @@ python -m pip install -r requirements.txt
 
 ## Required Input
 
-To be added.
+BnpC takes a binary genotype matrix: entries 0/1/3 (or blank), where 0 indicates the absence of a mutation, 1 the presence, and a 3 or empty element a missing value. Within the matrix, each row = mutations, columns = cells (or transposed, with -t).
 
 ## Running
 
