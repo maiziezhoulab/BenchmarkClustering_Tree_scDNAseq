@@ -1,0 +1,19 @@
+# Input/output
+input: example_data/bnpc_input.csv          # already in BnpC's native 0/1/3 space-separated format
+output: example_data/output/
+transpose: true                       # -t: input is cells x mutations, not mutations x cells
+
+# Error rates
+false_negative: 0.2                    # -FN
+false_positive: 0.001                  # -FP
+
+# # MCMC (left at BnpC defaults unless overridden)
+# steps: 5000                           # -s
+# burn_in: 0.33                         # -b
+# chains: 1                             # -n
+# seed: null                            # --seed (null = random)
+
+# # Estimator / output options
+# estimator: posterior                  # -e: posterior|ML|MAP
+# no_plots: false                       # -np
+# verbosity: 1                          # -v
